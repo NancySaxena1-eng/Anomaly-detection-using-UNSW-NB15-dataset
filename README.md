@@ -11,6 +11,7 @@ More details of the Isolation forest can be found here :
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
 
 **Why Isolation forest ?**
+
 Isolation Forest isolates the outliers and thus, making it easy to detect.
 
 References:
